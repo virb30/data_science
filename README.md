@@ -2,13 +2,16 @@
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) 
 
 # Vinícius Bôscoa
-<sub>*Software Developer* at UNISAGRADO</sub>
+<sub>*Desenvolvedor de Sistemas* no UNISAGRADO</sub>
 
-As an experienced Software Developer I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying software development to solve real problems of an institution of higher education, I developed a critical thinking and problem-solving skills.
+Engenheiro de computação, especialista em segurança da informação. Atuo como desenvolvedor de sistemas com ênfase em aplicações Web, desenvolvendo softwares para resolver problemas reais de uma instituição de ensino superior, fui capaz de aprimorar minhas habilidades análiticas, de trabalho em equipe, atenção aos detalhes, resolução de problemas e resolução de problemas.
 
-My credentials include a degree in Computer Engineering and a specialization in Information Security.
+**Experiência:**
+* Desenvolvimento de soluções Web: PHP (Laravel e CodeIgniter), NodeJS, Javascript (Vue.js e React), Typescript, HTML, CSS (Bootstrap); 
+* Bancos de dados Oracle, MySQL/MariaDB e Postgres;
+* Testes automatizados e TDD;
+* Docker e docker-compose;
 
-**Background in:** Python, PHP, Information Security.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/viniciusboscoa)
