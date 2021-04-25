@@ -1,8 +1,6 @@
 [![author](https://img.shields.io/badge/author-virb30-blue.svg)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![](https://img.shields.io/packagist/php-v/laravel/laravel)](https://www.php.net/)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) 
 
-Neste repositório estarão listados os projetos que desenvolvi na área de Data Science.
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/virb30/data_science/master/banner2.png" alt="Banner Data Science" />
 </p>
