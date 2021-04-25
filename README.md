@@ -12,12 +12,14 @@ My credentials include a degree in Computer Engineering and a specialization in 
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/viniciusboscoa)
+* [Site](https://viniboscoa.dev)
 
 
 ## Projetos:
 
-* **Mapeamento de ativos de TI:** https://bit.ly/390kfbu
-* **WebScraping: Coleta de notas do ENEM:** https://bit.ly/3o4livx
+* **[Mapeamento de ativos de TI](https://bit.ly/390kfbu)**
+* **[WebScraping: Coleta de notas do ENEM](https://bit.ly/3o4livx)**
+* **[Classificação de Imagens utilizando Deep Learning](https://github.com/virb30/portfolio/blob/master/notebooks/009_EDS_Projeto_Fashion_MNIST.ipynb)**
 
 ---
 
