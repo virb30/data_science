@@ -26,6 +26,7 @@ Engenheiro de computação, especialista em segurança da informação. Atuo com
 
 * **[Classificação de Imagens utilizando Deep Learning](https://github.com/virb30/data_science/blob/master/notebooks/009_EDS_Projeto_Fashion_MNIST.ipynb)**
 * **[Forecasting em Séries Temporais com Prophet](https://github.com/virb30/data_science/blob/master/notebooks/010_Forecasting_em_S%C3%A9ries_Temporais.ipynb)**
+* **[API de um modelo de Machine Learning](https://github.com/virb30/machine_learning_api)**
 
 
 
