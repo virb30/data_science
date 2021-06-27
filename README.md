@@ -30,6 +30,7 @@ Engenheiro de computação, especialista em segurança da informação. Atuo com
 * **[Aplicação de filtros em imagens com OpenCV, Streamlit e deploy no Heroku](https://github.com/virb30/streamlit_image_processing)**
 * **[ANPR - Automatic Number Plate Recognition](https://github.com/virb30/anpr)**
 * **[Realtime Filters and Face Detection](https://github.com/virb30/realtime_face_filters)**
+* **[Drowsing Detector](https://github.com/virb30/drowsing_detector)**
 
 
 
