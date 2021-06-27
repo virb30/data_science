@@ -31,6 +31,7 @@ Engenheiro de computação, especialista em segurança da informação. Atuo com
 * **[ANPR - Automatic Number Plate Recognition](https://github.com/virb30/anpr)**
 * **[Realtime Filters and Face Detection](https://github.com/virb30/realtime_face_filters)**
 * **[Drowsing Detector](https://github.com/virb30/drowsing_detector)**
+* **[Realtime Object Detection](https://github.com/virb30/realtime_object_detection)**
 
 
 
