@@ -29,7 +29,7 @@ Engenheiro de computação, especialista em segurança da informação. Atuo com
 * **[API de um modelo de Machine Learning com django-ninja](https://github.com/virb30/machine_learning_api)**
 * **[Aplicação de filtros em imagens com OpenCV, Streamlit e deploy no Heroku](https://github.com/virb30/streamlit_image_processing)**
 * **[ANPR - Automatic Number Plate Recognition](https://github.com/virb30/anpr)**
-* **[Detecção de Rostos e Aplicação de Filtros em Tempo Real](https://github.com/virb30/realtime_face_filters)
+* **[Detecção de Rostos e Aplicação de Filtros em Tempo Real](https://github.com/virb30/realtime_face_filters)**
 
 
 
