@@ -8,6 +8,8 @@
 # Vinícius Bôscoa
 <sub>*Desenvolvedor de Sistemas* no UNISAGRADO</sub>
 
+Aqui estão listados meus principais projetos na área de Data Science, Machine Learning, Deep Learning e Visão Computacional.
+
 ## Sobre mim:
 
 Engenheiro de computação, especialista em segurança da informação. Atuo como desenvolvedor de sistemas com ênfase em aplicações Web, desenvolvendo softwares para resolver problemas reais de uma instituição de ensino superior, fui capaz de aprimorar minhas habilidades análiticas, de trabalho em equipe, atenção aos detalhes e resolução de problemas. Autor do blog [viniboscoa.dev](https://viniboscoa.dev/blog)
