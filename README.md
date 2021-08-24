@@ -22,6 +22,7 @@ Engenheiro de computação, especialista em segurança da informação. Atuo com
 
 ## Projetos:
 
+* **[Panorama do COVID-19 no Brasil: os impactos da vacinação](https://github.com/virb30/analise-covid/blob/main/Projeto_Panorama_do_COVID_19_no_Brasil.ipynb)**
 * **[Analisando dados do Airbnb - Grande Lisboa](https://github.com/virb30/airbnb-lisboa/blob/main/Projeto_Analisando_os_Dados_do_Airbnb_Grande_Lisboa.ipynb)**
 * **[Classificação de Imagens utilizando Deep Learning](https://github.com/virb30/data_science/blob/master/notebooks/009_EDS_Projeto_Fashion_MNIST.ipynb)**
 * **[Forecasting em Séries Temporais com Prophet](https://github.com/virb30/data_science/blob/master/notebooks/010_Forecasting_em_S%C3%A9ries_Temporais.ipynb)**
