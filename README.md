@@ -22,6 +22,7 @@ Engenheiro de computação, especialista em segurança da informação. Atuo com
 
 ## Projetos:
 
+* **[Detecção de Fraudes em Cartões de Crédito](https://github.com/virb30/fraud-detection/blob/main/Projeto_Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb)**
 * **[Panorama do COVID-19 no Brasil: os impactos da vacinação](https://github.com/virb30/analise-covid/blob/main/Projeto_Panorama_do_COVID_19_no_Brasil.ipynb)**
 * **[Analisando dados do Airbnb - Grande Lisboa](https://github.com/virb30/airbnb-lisboa/blob/main/Projeto_Analisando_os_Dados_do_Airbnb_Grande_Lisboa.ipynb)**
 * **[Classificação de Imagens utilizando Deep Learning](https://github.com/virb30/data_science/blob/master/notebooks/009_EDS_Projeto_Fashion_MNIST.ipynb)**
